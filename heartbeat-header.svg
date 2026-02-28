@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="80" viewBox="0 0 600 80">
+  <defs>
+    <style>
+      text {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 32px;
+        fill: #2196F3;
+        font-weight: bold;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        animation: heartbeat 2s ease-in-out infinite;
+      }
+      @keyframes heartbeat {
+        0% { transform: scale(1); opacity: 1; }
+        15% { transform: scale(1.1); }
+        30% { transform: scale(1); }
+        45% { transform: scale(1.1); }
+        60% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+    </style>
+  </defs>
+  <text x="50%" y="50%">
+    Süha Ertuğrul Çakmak
+  </text>
+</svg>
