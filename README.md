@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=s-ertugrulcakmak&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&color=2196F3&center=true&vCenter=true&width=600&repeat=false&lines=S%C3%BCha+Ertu%C4%9Frul+%C3%87akmak" alt="Süha Ertuğrul Çakmak" />
 </p>
